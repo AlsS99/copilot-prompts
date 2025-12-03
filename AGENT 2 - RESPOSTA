@@ -1,0 +1,131 @@
+# Plano Personalizado: Analista de Dados
+
+Olá! Recebi suas informações do entrevistador.  
+
+Vejo que você escolheu **Analista de Dados** e tem **8 a 12 horas por semana** para estudar. Perfeito!  
+
+Vou montar agora seu plano completo personalizado...
+
+---
+
+## 🧩 Visão do Dia a Dia
+
+Como é o trabalho de um(a) **Analista de Dados**:
+- Extrair e limpar dados de bancos e fontes variadas.
+- Criar visualizações e dashboards para insights claros.
+- Analisar padrões para suportar decisões de negócio.
+- Colaborar com equipes para refinar relatórios.
+- Automatizar processos com scripts e queries. 
+
+---
+
+## 🧠 Mapa de Skills
+
+**Core Skills (essenciais):**
+- SQL para consultas em bancos de dados.
+- Python (Pandas, NumPy) para manipulação de dados.
+- Estatística básica e lógica analítica.
+
+**Nice-to-Have (complementares):**
+- Power BI ou Tableau para visualizações.
+- Noções de Machine Learning.
+
+**Ferramentas e Tecnologias:**
+- Excel avançado.
+- Google Data Studio.
+- Jupyter Notebook. 
+
+---
+
+## 📅 Roadmap de 90 Dias
+
+**Adaptado para: 8-12 horas/semana**
+
+### Mês 1 - Fundamentos
+**Semana 1-2:**
+- Aprenda SQL básico (SELECT, JOINs, GROUP BY) via tutoriais gratuitos.
+- Pratique queries em datasets públicos (Kaggle).
+
+**Semana 3-4:**
+- Introdução a Python: variáveis, loops, funções.
+- Instale Anaconda e explore Pandas para carregar dados.
+
+### Mês 2 - Prática
+**Semana 5-6:**
+- Limpeza de dados com Pandas (missing values, outliers).
+- Crie gráficos simples com Matplotlib/Seaborn.
+
+**Semana 7-8:**
+- Estatística descritiva: médias, medianas, correlações.
+- Construa seu primeiro dashboard no Google Sheets ou Power BI free.
+
+### Mês 3 - Portfólio e Preparação
+**Semana 9-10:**
+- Análise end-to-end de um dataset real (vendas, por ex.).
+- Documente insights em relatório.
+
+**Semana 11-12:**
+- Prepare portfólio no GitHub.
+- Simule entrevistas e otimize LinkedIn. 
+
+---
+
+## 🚀 Projeto de Portfólio
+
+**Projeto: Análise de Vendas Ambulantes**
+
+**O que fazer:**
+Use dataset de vendas (Kaggle) para limpar dados, analisar padrões de clientes e prever tendências, aproveitando sua experiência em vendas.
+
+**Entregáveis:**
+- Notebook Jupyter com código e visualizações.
+- Dashboard interativo (Power BI ou Streamlit).
+- Relatório PDF com insights acionáveis.
+
+**Critérios de Aceitação:**
+- Queries SQL rodando sem erros.
+- Gráficos legíveis com storytelling.
+- Insights ligados a negócios reais.
+
+**Dica:** Comece com dados de varejo; hospede no GitHub Pages para compartilhar facilmente. 
+
+---
+
+## 💬 Roteiro de Entrevistas
+
+**Pergunta 1:** Fale sobre um projeto de dados que você fez.  
+**Como responder:** "No meu projeto de análise de vendas, usei SQL para juntar tabelas de clientes e produtos, Pandas para limpar 20% de dados faltantes, e criei um dashboard mostrando que promoções em fins de semana aumentam receita em 15%."
+
+**Pergunta 2:** O que é uma JOIN em SQL?  
+**Como responder:** "JOIN combina tabelas baseadas em chaves comuns. INNER JOIN pega só matches; LEFT JOIN inclui todos da esquerda. Usei LEFT em vendas para incluir itens sem estoque."
+
+**Pergunta 3:** Como lidar com dados missing?  
+**Como responder:** "Avalio o % missing. Para numéricos, imputo média/mediana; categóricos, moda. No meu portfólio, dropei <5% e imputei o resto, validando com stats."
+
+**Pergunta 4:** Explique correlação vs causalidade.  
+**Como responder:** "Correlação mede relação linear (ex: -0.8 forte negativa). Causalidade precisa experimentos. Em vendas, chuva correlaciona com baixa venda, mas causa é mobilidade."
+
+**Pergunta 5:** Por que Python para dados?  
+**Como responder:** "Pandas manipula dataframes eficientemente, NumPy faz cálculos vetoriais rápidos. É open-source, com ecossistema rico para IA futura." 
+
+---
+
+## 🎓 Trilha DIO Recomendada
+
+**Trilha: Data Analyst**
+
+**Por que essa trilha:**
+Cobre SQL, Python, Power BI e projetos reais, perfeita para iniciantes em dados rumo ao primeiro emprego. 
+
+**Próximos passos:**
+1. Acesse dio.me  
+2. Busque por "Data Analyst"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+✨ Seu plano está pronto!  
+
+Lembre-se: o mais importante é a constância, não a velocidade.  
+Comece pela Semana 1 e vá no seu ritmo.
