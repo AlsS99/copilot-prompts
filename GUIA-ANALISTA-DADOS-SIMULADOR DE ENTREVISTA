@@ -1,0 +1,114 @@
+📘 Guia Completo – Analista de Dados Júnior
+
+Este documento reúne três partes principais:  
+1. Roteiro de Entrevista Técnica  
+2. Resumo Analítico da Vaga  
+3. Agenda Semanal de Estudos (90 dias)  
+
+---
+
+📑 Sumário  
+- 🧑‍💻 Entrevistador Técnico – Vagas de Tecnologia  
+- 📊 Resumo Analítico – Analista de Dados Júnior  
+- 📅 Agenda Semanal – Analista de Dados Júnior (90 dias)  
+
+---
+
+🧑‍💻 Entrevistador Técnico – Vagas de Tecnologia
+
+Este documento descreve o roteiro de entrevista estruturada para vagas de tecnologia, conduzido por um entrevistador técnico.
+
+🎯 Objetivo  
+Conduzir uma entrevista estruturada sobre uma vaga, fazendo perguntas uma por vez sobre 4 temas.  
+Após cobrir todos os temas e receber confirmação explícita do candidato, gerar um resumo analítico.
+
+📋 Sequência de Perguntas  
+1. Título  
+   "Qual é o título da vaga e qual o propósito principal desse cargo?"  
+2. Senioridade  
+   "Qual a senioridade esperada e por quê?"  
+3. Stack Técnico  
+   "Quais tecnologias, frameworks e práticas são essenciais?"  
+4. Soft Skills  
+   "Quais comportamentos ou atitudes são mais valorizados?"  
+
+⚖️ Regras  
+- Nunca faça mais de 1 pergunta por vez  
+- Nunca gere job description  
+- Só gere o resumo analítico após confirmação explícita  
+
+🚀 Início da Entrevista  
+O entrevistador deve iniciar sempre com:  
+"Olá! Vou fazer perguntas sobre a vaga que você está estruturado.  
+Para começar: qual é o título da vaga e qual o propósito principal desse cargo?"
+
+---
+
+📊 Resumo Analítico – Analista de Dados Júnior
+
+🎯 Propósito do Cargo  
+O Analista de Dados Júnior terá como principal objetivo apoiar na coleta, organização, análise e visualização de dados, fornecendo informações confiáveis para subsidiar decisões estratégicas e operacionais da empresa.
+
+📈 Senioridade  
+Nível: Júnior  
+Justificativa: Profissional em início de carreira, com foco em aprender, aplicar boas práticas e evoluir tecnicamente dentro da área de dados.
+
+🛠️ Stack Técnico Essencial  
+Linguagens e Ferramentas: SQL, Python (Pandas, NumPy, Matplotlib)  
+Processos: ETL básico  
+Ferramentas de apoio: Excel avançado  
+Visualização: Power BI ou Tableau  
+Boas práticas: Versionamento com Git  
+
+🤝 Soft Skills Valorizadas  
+- Pensamento analítico e capacidade de investigação  
+- Comunicação clara e objetiva  
+- Aprendizado rápido e adaptabilidade  
+- Organização e responsabilidade  
+- Compromisso em entregar soluções confiáveis  
+
+📌 Observação  
+Este resumo sintetiza os pontos principais da vaga e pode servir como base para alinhar expectativas entre recrutadores e candidatos.
+
+---
+
+📅 Agenda Semanal – Analista de Dados Júnior (90 dias)
+
+Perfeito, Anne! Vamos organizar sua rotina de estudos em uma agenda semanal detalhada, considerando até 4 horas por dia e incluindo vídeos, prática e portfólio.
+
+📌 Segunda-feira – Fundamentos de SQL  
+2h vídeos/aulas: consultas com JOIN, GROUP BY, HAVING  
+1h prática: criar queries em bases de exemplo (ex.: vendas, clientes)  
+1h portfólio: documentar queries no GitHub com explicações simples  
+
+📌 Terça-feira – Python para Dados  
+2h vídeos: pandas (limpeza de dados), numpy (operações matemáticas)  
+1h prática: tratar nulos, calcular médias, criar gráficos básicos  
+1h portfólio: publicar notebook com exemplos comentados  
+
+📌 Quarta-feira – ETL e Excel Avançado  
+2h vídeos: ETL básico (extração, transformação, carga) + funções avançadas do Excel  
+1h prática: montar fluxo simples de ETL e criar Tabela Dinâmica  
+1h portfólio: salvar exemplos de ETL e dashboards em Excel  
+
+📌 Quinta-feira – Visualização de Dados  
+2h vídeos: Power BI ou Tableau (criação de dashboards)  
+1h prática: montar dashboard com KPIs e filtros  
+1h portfólio: publicar prints e explicação do dashboard  
+
+📌 Sexta-feira – Git + Soft Skills  
+2h vídeos: Git (clone, branch, commit, push) + comunicação clara em dados  
+1h prática: versionar projetos no GitHub  
+1h soft skills: gravar vídeo curto explicando uma análise sem jargões  
+
+🎯 Estratégia de Progressão  
+Semanas 1–4: foco em fundamentos (SQL, Python, Excel, Git)  
+Semanas 5–8: projetos práticos (ETL, dashboards, portfólio)  
+Semanas 9–12: simulações de entrevista e networking  
+
+📺 Recursos em Vídeo  
+YouTube: canais como Hashtag Treinamentos, Data Science Academy, Programação Dinâmica  
+Cursos estruturados: Alura, Coursera, DataCamp (todos com trilhas de Analista de Dados Júnior)  
+Prática guiada: Kaggle (datasets gratuitos para treinar)  
+
+✅ Com essa agenda, você terá uma rotina clara e equilibrada entre teoria, prática e portfólio.
